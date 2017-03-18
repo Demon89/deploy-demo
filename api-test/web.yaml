@@ -1,0 +1,7 @@
+---
+- config:
+    - testset: "Quickstart web tests"
+
+- test:
+    - name: "Basic smoketest"
+    - url: "/index.html"
